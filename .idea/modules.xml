@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lamp-2020.iml" filepath="$PROJECT_DIR$/lamp-2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamp-common/lamp-common.iml" filepath="$PROJECT_DIR$/lamp-common/lamp-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamp-web/lamp-web.iml" filepath="$PROJECT_DIR$/lamp-web/lamp-web.iml" />
+    </modules>
+  </component>
+</project>
