@@ -14,7 +14,9 @@ import lombok.RequiredArgsConstructor;
 
 public class ResponseData<T> {
 
+    public ResponseData(){
 
+    }
 //    public ResponseData(){
 //
 //    }

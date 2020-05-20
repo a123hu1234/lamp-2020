@@ -2,14 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="197a364f-ddb7-4c6a-8f71-b61ee4644b29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_test_3_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_reactive_2_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_2_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_core_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_data_redis_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAccessDeniedHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationFailureHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxInvalidSessionStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxLogoutSuccessHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxSessionInformationExpiredStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SelfAuthenticationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/controller/HomeConroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/service/UserDetailsServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/utils/MultiReadHttpServletRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/utils/MultiReadHttpServletResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/044daba9d63874a32c9c6699957460e93280d430" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/044daba9d63874a32c9c6699957460e93280d430" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39de01eb4b7fa155dd284792b9536f6651de281e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39de01eb4b7fa155dd284792b9536f6651de281e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6399291cbc0737916da732bfd67af0891e47f9a2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6399291cbc0737916da732bfd67af0891e47f9a2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/832bb1ebf3629af20029e0c3964caffc15416442" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/832bb1ebf3629af20029e0c3964caffc15416442" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb82ecc18125c7f82874b291732be01368537dac" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb82ecc18125c7f82874b291732be01368537dac" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e56b4ec089b29d5f6da0e170531b8dc3003293e4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e56b4ec089b29d5f6da0e170531b8dc3003293e4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fdad3271fb98ef1eb8794767a2846ba60c10215f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fdad3271fb98ef1eb8794767a2846ba60c10215f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/ResponseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/ResponseData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/LampWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/LampWebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SpringSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/SpringSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/AdminAuthenticationProcessingFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/AdminAuthenticationSuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/MyAuthenticationFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/MyAuthenticationFilter1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/AdminAuthenticationFailureHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/AdminAuthenticationProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/CusAuthenticationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/LoginAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/url/UrlAccessDecisionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/url/UrlAccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/url/UrlFilterInvocationSecurityMetadataSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/utils/ResponseUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/lamp-web/target/" />
     <ignored path="$PROJECT_DIR$/lamp-common/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,19 +84,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session-core/2.2.2.RELEASE/spring-session-core-2.2.2.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-56">
-              <caret line="2597" selection-start-line="2597" selection-end-line="2597" />
+            <state relative-caret-position="210">
+              <caret line="133" selection-start-line="133" selection-end-line="133" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/LampWebApplication.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+            <state relative-caret-position="210">
+              <caret line="141" selection-start-line="141" selection-end-line="141" />
+              <folding>
+                <element signature="e#2637#2638#0" expanded="true" />
+                <element signature="e#2694#2695#0" expanded="true" />
+                <element signature="e#4388#4389#0" expanded="true" />
+                <element signature="e#4441#4442#0" expanded="true" />
+                <element signature="e#4868#4869#0" expanded="true" />
+                <element signature="e#4921#4922#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,16 +113,16 @@
         <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/mapper/UserRoleMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/dto/UserRole.java">
+        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/service/UserDetailsServiceImp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="254">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,22 +131,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/AdminAuthenticationProcessingFilter.java">
+        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SelfAuthenticationProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="47" column="54" lean-forward="true" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
+            <state relative-caret-position="125">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1746#1747#0" expanded="true" />
+                <element signature="e#1773#1774#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/ui/DefaultLoginPageGeneratingFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="201" column="28" lean-forward="true" selection-start-line="201" selection-start-column="28" selection-end-line="201" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/session/ConcurrentSessionFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/MyAuthenticationFilter.java">
+        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SpringSecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="597">
+              <caret line="67" column="63" lean-forward="true" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,43 +175,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/MyAuthenticationFilter1.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="62" selection-end-column="40" />
+            <state relative-caret-position="218">
+              <caret line="152" selection-start-line="152" selection-end-line="152" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/SpringSecurityConfig.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/session/SessionManagementFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+            <state relative-caret-position="151">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#7095#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/CusAuthenticationManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="358" column="16" selection-start-line="358" selection-start-column="16" selection-end-line="358" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -149,6 +218,8 @@
       <find>hikari</find>
       <find>attemptAuthentication</find>
       <find>authenticate</find>
+      <find>SessionManagementFilter</find>
+      <find>filter</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -169,7 +240,6 @@
         <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/util/ResponseUtils.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/LoginAuthenticationEntryPoint.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/WebSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/ResponseData.java" />
         <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/constants/Constants.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/CusAuthenticationManager.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/AdminAuthenticationSuccessHandler.java" />
@@ -179,18 +249,34 @@
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/url/UrlFilterInvocationSecurityMetadataSource.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/lamp-web/pom.xml" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/dto/User.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/mapper/UserRoleMapper.java" />
-        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/LampWebApplication.java" />
-        <option value="$PROJECT_DIR$/lamp-web/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/AdminAuthenticationProvider.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/AdminAuthenticationProcessingFilter.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/dto/UserRole.java" />
-        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/SpringSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/utils/MultiReadHttpServletRequest.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/utils/MultiReadHttpServletResponse.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/MyAuthenticationFilter1.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/MyAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/LampWebApplication.java" />
+        <option value="$PROJECT_DIR$/lamp-web/pom.xml" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/SpringSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/ResponseData.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AuthenticationFailureHandler.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationFailureHandler.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationEntryPoint.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAccessDeniedHandler.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SelfAuthenticationProvider.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxLogoutSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxInvalidSessionStrategy.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxSessionInformationExpiredStrategy.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SpringSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/controller/HomeConroller.java" />
+        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/service/UserDetailsServiceImp.java" />
       </list>
     </option>
   </component>
@@ -211,8 +297,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1225" />
-    <option name="width" value="702" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -222,7 +308,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,6 +318,62 @@
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
               <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -284,7 +425,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hik" type="462c0819:PsiDirectoryNode" />
               <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
@@ -295,31 +436,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hik" type="462c0819:PsiDirectoryNode" />
               <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="configuration" type="462c0819:PsiDirectoryNode" />
-              <item name="login" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="dto" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
@@ -341,7 +458,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="hik" type="462c0819:PsiDirectoryNode" />
               <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
@@ -358,68 +475,52 @@
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.baomidou:mybatis-plus-boot-starter:3.3.1" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: org.springframework.session:spring-session-core:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.baomidou:mybatis-plus-boot-starter:3.3.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="mybatis-plus-boot-starter-3.3.1.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework.session:spring-session-core:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-session-core-2.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.baomidou:mybatis-plus-boot-starter:3.3.1" type="70bed36:NamedLibraryElementNode" />
-              <item name="mybatis-plus-boot-starter-3.3.1.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="autoconfigure" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework.session:spring-session-core:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-session-core-2.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="session" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.20" type="70bed36:NamedLibraryElementNode" />
+              <item name="Maven: org.springframework.session:spring-session-core:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-session-core-2.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="session" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.20" type="70bed36:NamedLibraryElementNode" />
-              <item name="mysql-connector-java-8.0.20.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework.session:spring-session-core:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-session-core-2.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="session" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="http" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.20" type="70bed36:NamedLibraryElementNode" />
-              <item name="mysql-connector-java-8.0.20.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.20" type="70bed36:NamedLibraryElementNode" />
-              <item name="mysql-connector-java-8.0.20.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="cj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.20" type="70bed36:NamedLibraryElementNode" />
-              <item name="mysql-connector-java-8.0.20.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="cj" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: mysql:mysql-connector-java:8.0.20" type="70bed36:NamedLibraryElementNode" />
-              <item name="mysql-connector-java-8.0.20.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="Maven: org.springframework.session:spring-session-core:2.2.2.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-session-core-2.2.2.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="session" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="session" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -440,23 +541,24 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\ideaWorkspace\springfox\lamp-2020\lamp-web\src\webapp\WEB-INF" />
-      <recent name="F:\ideaWorkspace\springfox\lamp-2020\lamp-web\src" />
-      <recent name="F:\ideaWorkspace\springfox\lamp-2020\lamp-web\src\main\resources" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="cn.com.hik" />
       <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="cn.com.hik.lamp.configuration.filter" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\ideaWorkspace\springfox\lamp-2020\lamp-web\src\main\resources\templates" />
       <recent name="F:\ideaWorkspace\springfox\lamp-2020\lamp-web\src\main\resources" />
       <recent name="F:\ideaWorkspace\springfox\lamp-2020\lamp-web\src\main\webapp" />
       <recent name="F:\ideaWorkspace\springfox\lamp-2020\lamp-web\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.com.hik.lamp.utils" />
+      <recent name="cn.com.hik.lamp.configuration.filter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ideaWorkspace\springfox\lamp-2020\lamp-web\src\webapp\WEB-INF" />
+      <recent name="F:\ideaWorkspace\springfox\lamp-2020\lamp-web\src" />
+      <recent name="F:\ideaWorkspace\springfox\lamp-2020\lamp-web\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -481,6 +583,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -530,19 +639,35 @@
       <workItem from="1589247634774" duration="6689000" />
       <workItem from="1589264692840" duration="15166000" />
       <workItem from="1589331634276" duration="6343000" />
-      <workItem from="1589418091440" duration="16416000" />
+      <workItem from="1589418091440" duration="16588000" />
+      <workItem from="1589504337921" duration="23213000" />
     </task>
+    <task id="LOCAL-00001" summary="配置">
+      <created>1589451553114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589451553114</updated>
+    </task>
+    <task id="LOCAL-00002" summary="配置">
+      <created>1589451565747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589451565747</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89137000" />
+    <option name="totallyTimeSpent" value="112522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8397436" visible="true" weight="0.26652452" />
-      <window_info id="Structure" order="1" sideWeight="0.16025642" side_tool="true" visible="true" weight="0.26652452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.9186551" visible="true" weight="0.08742005" />
+      <window_info id="Structure" order="1" sideWeight="0.0813449" side_tool="true" visible="true" weight="0.08742005" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -552,7 +677,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.43661973" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35536295" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4924078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45336226" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -565,7 +690,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="bottom" id="Messages" order="16" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="16" weight="0.3286334" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -580,6 +705,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -615,30 +744,6 @@
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/AdminAuthenticationFailureHandler.java</url>
-          <line>25</line>
-          <properties />
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/LoginAuthenticationEntryPoint.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="87" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/CusAuthenticationManager.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/AdminAuthenticationProcessingFilter.java</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="89" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java</url>
           <line>114</line>
           <properties />
@@ -669,28 +774,10 @@
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/AdminAuthenticationSuccessHandler.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/url/UrlAccessDecisionManager.java</url>
-          <line>32</line>
-          <properties />
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java</url>
           <line>62</line>
           <properties />
           <option name="timeStamp" value="100" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/MyAuthenticationFilter.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.java</url>
@@ -727,6 +814,24 @@
           <line>2597</line>
           <properties />
           <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/session/SessionManagementFilter.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session-core/2.2.2.RELEASE/spring-session-core-2.2.2.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java</url>
+          <line>133</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SelfAuthenticationProvider.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="138" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -768,16 +873,308 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/utils/ResponseUtils.java">
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/WebSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/LoginAuthenticationEntryPoint.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/time/Duration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
+        <state relative-caret-position="1050">
+          <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/time/temporal/ChronoUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="98" column="4" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.7.RELEASE/spring-boot-autoconfigure-2.2.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/session/SessionProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1295">
+          <caret line="90" column="16" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+          <folding>
+            <element signature="e#2620#2621#0" expanded="true" />
+            <element signature="e#2649#2650#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.7.RELEASE/spring-boot-autoconfigure-2.2.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/session/SessionAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="83" column="13" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/MyAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/url/UrlFilterInvocationSecurityMetadataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/RequestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/ResponseData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.4.RELEASE/spring-security-core-5.2.4.RELEASE-sources.jar!/org/springframework/security/authentication/CachingUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.4.RELEASE/spring-security-core-5.2.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationFailureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.4.RELEASE/spring-security-core-5.2.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/UserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.4.RELEASE/spring-security-core-5.2.4.RELEASE-sources.jar!/org/springframework/security/core/GrantedAuthority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.4.RELEASE/spring-security-core-5.2.4.RELEASE-sources.jar!/org/springframework/security/core/authority/SimpleGrantedAuthority.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.4.RELEASE/spring-security-core-5.2.4.RELEASE-sources.jar!/org/springframework/security/core/userdetails/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="83" column="11" selection-start-line="83" selection-start-column="11" selection-end-line="83" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#931#932#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxLogoutSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="26" column="68" selection-start-line="22" selection-start-column="7" selection-end-line="26" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxInvalidSessionStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="25" column="68" selection-start-line="21" selection-start-column="7" selection-end-line="25" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session-core/2.2.2.RELEASE/spring-session-core-2.2.2.RELEASE.jar!/org/springframework/session/web/http/SessionRepositoryFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.2.2.RELEASE/spring-session-data-redis-2.2.2.RELEASE-sources.jar!/org/springframework/session/data/redis/config/annotation/web/http/RedisHttpSessionConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.2.2.RELEASE/spring-session-data-redis-2.2.2.RELEASE-sources.jar!/org/springframework/session/data/redis/config/annotation/web/http/EnableRedisHttpSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="66" column="24" lean-forward="true" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.2.2.RELEASE/spring-session-data-redis-2.2.2.RELEASE.jar!/org/springframework/session/data/redis/config/annotation/web/http/EnableRedisHttpSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.34/tomcat-embed-core-9.0.34-sources.jar!/org/apache/catalina/connector/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="2392" column="21" selection-start-line="2392" selection-start-column="21" selection-end-line="2392" selection-end-column="21" />
+          <folding>
+            <element signature="e#69389#69390#0" expanded="true" />
+            <element signature="e#69430#69431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.34/tomcat-embed-core-9.0.34-sources.jar!/javax/servlet/http/HttpServletRequestWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="207" column="55" selection-start-line="207" selection-start-column="55" selection-end-line="207" selection-end-column="55" />
+          <folding>
+            <element signature="e#6295#6296#0" expanded="true" />
+            <element signature="e#6371#6372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/SessionManagementConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="498" column="19" lean-forward="true" selection-start-line="498" selection-start-column="8" selection-end-line="498" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/AuthenticationSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="239" column="52" lean-forward="true" selection-start-line="239" selection-start-column="52" selection-end-line="239" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.2.2.RELEASE/spring-session-data-redis-2.2.2.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisIndexedSessionRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11754">
+          <caret line="50" column="55" lean-forward="true" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/controller/HomeConroller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/LampWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="77" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxSessionInformationExpiredStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAccessDeniedHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationEntryPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
           <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -785,57 +1182,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.4.RELEASE/spring-security-core-5.2.4.RELEASE-sources.jar!/org/springframework/security/authentication/AuthenticationProvider.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.34/tomcat-embed-core-9.0.34-sources.jar!/javax/servlet/http/HttpServletRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state relative-caret-position="218">
+          <caret line="419" column="23" selection-start-line="419" selection-start-column="23" selection-end-line="419" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/AdminAuthenticationProvider.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="468">
+          <caret line="2607" lean-forward="true" selection-start-line="2607" selection-end-line="2607" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/url/UrlAccessDeniedHandler.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/AnonymousAuthenticationFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="218">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/web/filter/OncePerRequestFilter.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/FilterChainProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-635">
-          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="89" column="58" lean-forward="true" selection-start-line="89" selection-start-column="58" selection-end-line="89" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/access/intercept/FilterSecurityInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        <state relative-caret-position="210">
+          <caret line="335" selection-start-line="335" selection-end-line="335" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-503">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        <state relative-caret-position="210">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
           <folding>
             <element signature="e#2637#2638#0" expanded="true" />
             <element signature="e#2694#2695#0" expanded="true" />
@@ -847,315 +1225,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/AdminAuthenticationSuccessHandler.java">
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SelfAuthenticationProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="125">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1746#1747#0" expanded="true" />
+            <element signature="e#1773#1774#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.34/tomcat-embed-core-9.0.34-sources.jar!/org/apache/catalina/core/ApplicationDispatcher.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/ui/DefaultLoginPageGeneratingFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="460" selection-start-line="460" selection-end-line="460" />
+        <state relative-caret-position="74">
+          <caret line="201" column="28" lean-forward="true" selection-start-line="201" selection-start-column="28" selection-end-line="201" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/DefaultLoginPageConfigurer.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/session/ConcurrentSessionFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
-          <folding>
-            <element signature="e#0#4102#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="151">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Map.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+        <state relative-caret-position="218">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/session/SessionManagementFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/support/ConstructorResolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="650" selection-start-line="650" selection-end-line="650" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="877" selection-start-line="877" selection-end-line="877" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="894" selection-start-line="894" selection-end-line="894" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="201" selection-start-line="201" selection-end-line="201" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/ExceptionHandlingConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="192" column="34" selection-start-line="192" selection-start-column="8" selection-end-line="192" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/WebSecurity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/HeadersConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="903" selection-start-line="903" selection-end-line="903" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/SessionManagementConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="498" column="31" selection-start-line="498" selection-start-column="8" selection-end-line="498" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/SecurityContextConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="91" column="40" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/RequestCacheConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="104" column="31" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/AnonymousConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="45" column="41" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/ServletApiConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="61" column="51" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/LogoutConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="296" column="43" lean-forward="true" selection-start-line="296" selection-start-column="43" selection-end-line="296" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/AbstractInterceptUrlConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="78" column="33" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/CorsConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="65" column="18" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/RememberMeConfigurer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
+        <state relative-caret-position="151">
           <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#0#7095#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/authentication/configuration/AuthenticationConfiguration.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/session/spring-session-core/2.2.2.RELEASE/spring-session-core-2.2.2.RELEASE-sources.jar!/org/springframework/session/web/http/SessionRepositoryFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        <state relative-caret-position="210">
+          <caret line="133" selection-start-line="133" selection-end-line="133" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfigurerAdapter.java">
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/service/UserDetailsServiceImp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="200" selection-start-line="200" selection-end-line="200" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/AbstractSecurityBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configuration/WebSecurityConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2031">
-          <caret line="131" column="93" selection-start-line="131" selection-start-column="68" selection-end-line="131" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/FilterComparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="793">
-          <caret line="171" column="16" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/AbstractConfiguredSecurityBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="366" selection-start-line="366" selection-end-line="366" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48">
-          <caret line="153" selection-start-line="153" selection-end-line="153" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.4.RELEASE/spring-security-core-5.2.4.RELEASE-sources.jar!/org/springframework/security/authentication/UsernamePasswordAuthenticationToken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1325">
-          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.2.4.RELEASE/spring-security-core-5.2.4.RELEASE-sources.jar!/org/springframework/security/authentication/AuthenticationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="358" column="16" selection-start-line="358" selection-start-column="16" selection-end-line="358" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/login/CusAuthenticationManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="254">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/LampWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/mapper/UserRoleMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/dto/UserRole.java">
+    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SpringSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-config/5.2.4.RELEASE/spring-security-config-5.2.4.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/builders/HttpSecurity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="2597" selection-start-line="2597" selection-end-line="2597" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/AdminAuthenticationProcessingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="47" column="54" lean-forward="true" selection-start-line="47" selection-start-column="54" selection-end-line="47" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/SpringSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="34" column="27" lean-forward="true" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/MyAuthenticationFilter1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="62" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/configuration/filter/MyAuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="597">
+          <caret line="67" column="63" lean-forward="true" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
