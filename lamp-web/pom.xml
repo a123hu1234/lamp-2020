@@ -6,8 +6,9 @@
         <groupId>cn.com.hik.lamp-2020</groupId>
         <artifactId>lamp-2020</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath>../../lamp-2020</relativePath> <!-- lookup parent from repository -->
     </parent>
+    <packaging>jar</packaging>
     <artifactId>lamp-web</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>lamp-web</name>
@@ -21,7 +22,16 @@
         <dependency>
             <groupId>cn.com.hik.lamp-2020</groupId>
             <artifactId>lamp-common</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>cn.com.hik.lamp-2020</groupId>
+            <artifactId>lamp-dao</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-configuration-processor</artifactId>
+            <optional>true</optional>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -42,24 +52,8 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.67</version>
-        </dependency>
-        <dependency>
-            <groupId>com.baomidou</groupId>
-            <artifactId>mybatis-plus-boot-starter</artifactId>
-            <version>3.3.1</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-pool2</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <optional>true</optional>
-        </dependency>
 
         <dependency>
             <groupId>org.springframework.security</groupId>
@@ -75,6 +69,25 @@
     </dependencies>
 
     <build>
+        <resources>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+            </resource>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+        </resources>
+        <testResources>
+            <testResource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+            </testResource>
+        </testResources>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

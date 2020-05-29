@@ -6,16 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
         <module name="lamp-web" />
         <module name="lamp-common" />
-        <module name="lamp-2020" />
+        <module name="lamp-dao" />
+        <module name="lamp-system" />
+        <module name="demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
       <module name="lamp-2020" target="1.8" />
       <module name="lamp-common" target="1.8" />
+      <module name="lamp-dao" target="1.8" />
+      <module name="lamp-system" target="1.8" />
       <module name="lamp-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +27,8 @@
       <module name="demo" options="-parameters" />
       <module name="lamp-2020" options="-parameters" />
       <module name="lamp-common" options="-parameters" />
+      <module name="lamp-dao" options="-parameters" />
+      <module name="lamp-system" options="-parameters" />
       <module name="lamp-web" options="-parameters" />
     </option>
   </component>

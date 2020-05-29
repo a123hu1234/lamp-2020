@@ -1,8 +1,9 @@
 package cn.com.hik.lamp.common.model;
 
+import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
+import lombok.NoArgsConstructor;
 
 /**
  * @author : hcb
@@ -11,21 +12,9 @@ import lombok.RequiredArgsConstructor;
  */
 @Builder
 @Data
-
+@NoArgsConstructor
+@AllArgsConstructor
 public class ResponseData<T> {
-
-    public ResponseData(){
-
-    }
-//    public ResponseData(){
-//
-//    }
-
-    public ResponseData(String code,String message,T data){
-        this.code = code;
-       this.message = message;
-        this.data = data;
-    }
 
     private String code;
     private String message;

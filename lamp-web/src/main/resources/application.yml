@@ -25,10 +25,14 @@ spring:
     session:
       timeout: 120
       store-type: redis
+    http:
+      encoding:
+        force-response: true
+
 # mybatis-plus相关配置
 mybatis-plus:
   # xml扫描，多个目录用逗号或者分号分隔（告诉 Mapper 所对应的 XML 文件位置）
-  mapper-locations: classpath:**/*Mapper.xml
+  mapper-locations: classpath*:**/*Mapper.xml
   # 以下配置均有默认值,可以不设置
   global-config:
     db-config:
@@ -38,3 +42,10 @@ mybatis-plus:
     # 是否开启自动驼峰命名规则映射:从数据库列名到Java属性驼峰命名的类似映射
     map-underscore-to-camel-case: true
     cache-enabled: false
+lamp:
+  web-config:
+    post-igore-url: /home/hello
+    get-igore-url: /doc.html,/swagger-ui.html,/ui,/swagger-resources,/v2/api-docs,/favicon.ico,/**/*.png,/**/*.ttf,/*.html,/**/*.css,/**/*.js
+    login-url: /login
+    igore-swagger-request: true
+

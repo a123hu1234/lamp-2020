@@ -6,9 +6,9 @@
         <groupId>cn.com.hik.lamp-2020</groupId>
         <artifactId>lamp-2020</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath>../../lamp-2020</relativePath> <!-- lookup parent from repository -->
     </parent>
-
+    <packaging>jar</packaging>
     <artifactId>lamp-common</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>lamp-common</name>
@@ -17,32 +17,26 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
-
-    <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
-
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <optional>true</optional>
-        </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-test</artifactId>
-            <scope>test</scope>
-            <exclusions>
-                <exclusion>
-                    <groupId>org.junit.vintage</groupId>
-                    <artifactId>junit-vintage-engine</artifactId>
-                </exclusion>
-            </exclusions>
-        </dependency>
-    </dependencies>
-
     <build>
+        <resources>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+            </resource>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+        </resources>
+        <testResources>
+            <testResource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.xml</include>
+                </includes>
+            </testResource>
+        </testResources>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>

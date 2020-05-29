@@ -1,5 +1,8 @@
 package cn.com.hik.lamp.service;
 
+import cn.com.hik.lamp.common.entity.LampUser;
+import cn.com.hik.lamp.common.service.system.ILampUserService;
+import com.baomidou.mybatisplus.core.toolkit.Wrappers;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -7,8 +10,9 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Component;
 
-import java.util.Arrays;
+import javax.annotation.Resource;
 import java.util.Collections;
+import java.util.Objects;
 
 /**
  * @author : hcb
@@ -17,9 +21,21 @@ import java.util.Collections;
  */
 @Component
 public class UserDetailsServiceImp implements UserDetailsService {
-    @Override
-    public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
 
-        return new User("123","123", Collections.singletonList(new SimpleGrantedAuthority("admin")));
+    @Resource
+    private ILampUserService lampUserServiceImpl;
+
+    @Override
+    public UserDetails loadUserByUsername(String username) {
+
+        LampUser lampUser = new LampUser();
+        lampUser.setLoginName(username);
+        LampUser lampUser1 = lampUserServiceImpl.getOne(Wrappers.lambdaQuery(lampUser));
+
+        if(Objects.isNull(lampUser1)){
+            throw new UsernameNotFoundException("用户名不存在");
+        }
+
+        return new User(lampUser1.getLoginName(),lampUser1.getPassword(), Collections.singletonList(new SimpleGrantedAuthority(String.valueOf(lampUser1.getRoleId()))));
     }
 }

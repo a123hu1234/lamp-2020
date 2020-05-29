@@ -1,8 +1,0 @@
-
-Y
-java:S1854#"<Remove this useless assignment to local variable "needRole".(ëÍóÒ8Î­ÿÀ .
-§
-java:S1130"„Remove the declaration of thrown exception 'org.springframework.security.access.AccessDeniedException' which is a runtime exception.(—ƒÃûÿÿÿÿ8¼ïæÀ .
-§
-java:S1130"„Remove the declaration of thrown exception 'org.springframework.security.core.AuthenticationException' which is a runtime exception.(—ƒÃûÿÿÿÿ8¼ïæÀ .
-]	java:S125%"<This block of commented-out lines of code should be removed.(ÒÜÙ•øÿÿÿÿ8¢ÚêÀ .
