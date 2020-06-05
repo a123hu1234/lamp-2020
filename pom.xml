@@ -18,6 +18,7 @@
         <module>lamp-common</module>
         <module>lamp-system</module>
         <module>lamp-dao</module>
+        <module>lamp-iot-proxy</module>
     </modules>
 
     <properties>

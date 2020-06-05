@@ -1,118 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="197a364f-ddb7-4c6a-8f71-b61ee4644b29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_xiaoymin_swagger_bootstrap_ui_1_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_engine_core_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_25_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/LampCommonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/lamp-dao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/CodeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/LampCommonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/entity/LampMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/entity/LampRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/entity/LampRoleMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/entity/LampUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/mapper/LampMenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/mapper/LampRoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/mapper/LampRoleMenuMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/mapper/LampUserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/service/system/ILampMenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/service/system/ILampRoleMenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/service/system/ILampRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/service/system/ILampUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/service/system/impl/LampMenuServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/service/system/impl/LampRoleMenuServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/service/system/impl/LampRoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/service/system/impl/LampUserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-system/lamp-system.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-system/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/autoconfig/LampConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/maybatis/MaybatisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/SelfAuthenticationManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/filter/AjaxLoginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/url/UrlAccessDecisionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/url/UrlFilterInvocationSecurityMetadataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/swagger/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/utils/Constants.java" afterDir="false" />
+    <list default="true" id="197a364f-ddb7-4c6a-8f71-b61ee4644b29" name="Default Changelist" comment="1.添加swagger及swaager-ui&#10;2.添加登录权限控制">
+      <change afterPath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/AbsIotDeviceVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/AbsIotRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/AbsIotResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/AbsIotCommonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IIotCommonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IIotDaoManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-iot-proxy/lamp-iot-proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-iot-proxy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotDeviceVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/service/impl/IotCommonManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamp-iot-proxy/src/test/java/TestLom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/044daba9d63874a32c9c6699957460e93280d430" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b30c377f13f03d4a1a9424a6b28042e06fd0a1a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e15c3b7fab3d28ae0fcd4b90cfd7c0f14261d2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/385be3e01dbc03e7d6b364237dd161e7106a6730" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/39de01eb4b7fa155dd284792b9536f6651de281e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3d525a76e881ec6f1e02d03ea8baabc3d47ba6ff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f02dc7bd9cee57d526070a30d8c37728908f261" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60df8a435543a5c4f48314ff9172ba493f51b06c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/0/60df8a435543a5c4f48314ff9172ba493f51b06c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6399291cbc0737916da732bfd67af0891e47f9a2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/6399291cbc0737916da732bfd67af0891e47f9a2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/644ea2b3110db10fe364a2ff3446c1894d8dcca0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/f/6f153bce5d428e2dbe9805c6d4386e0669b6dea2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/832bb1ebf3629af20029e0c3964caffc15416442" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a4f266511e090f08c42ac1e52d48a7f14580d03" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb82ecc18125c7f82874b291732be01368537dac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cfa96aba7d7eb271be7be01a1f57e350567b5cfb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cfa96aba7d7eb271be7be01a1f57e350567b5cfb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0f0dca7a8c1bfd5036cc556584b88b2bb4f1466" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e56b4ec089b29d5f6da0e170531b8dc3003293e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e5c009bbe95d8598dede4ddea48bc86bb460e744" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fdad3271fb98ef1eb8794767a2846ba60c10215f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-2020.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-common/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/RequestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/RequestData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/ResponseData.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/ResponseData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/lampcommon/LampCommonApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-common/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-common/src/test/java/cn/com/hik/lamp/lampcommon/LampCommonApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-common/src/test/java/cn/com/hik/lamp/lampcommon/LampCommonApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/LampWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/LampWebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAccessDeniedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/handler/AjaxAccessDeniedHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/authertic/AjaxAuthenticationEntryPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationFailureHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/handler/AjaxAuthenticationFailureHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxAuthenticationSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/handler/AjaxAuthenticationSuccessHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxInvalidSessionStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/session/AjaxInvalidSessionStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxLogoutSuccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/handler/AjaxLogoutSuccessHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxSessionInformationExpiredStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/session/AjaxSessionInformationExpiredStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/redis/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SelfAuthenticationProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/authertic/SelfAuthenticationProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SpringSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/SpringSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/controller/HomeConroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/controller/HomeConroller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/dto/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/dto/UserRole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/mapper/UserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/mapper/UserRoleMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/service/UserDetailsServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/service/UserDetailsServiceImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamp-web/src/test/java/cn/com/hik/lamp2020/lampweb/SystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/test/java/cn/com/hik/lamp2020/lampweb/SystemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/url/UrlFilterInvocationSecurityMetadataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/url/UrlFilterInvocationSecurityMetadataSource.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -121,6 +29,7 @@
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <ignored path="$PROJECT_DIR$/lamp-system/target/" />
     <ignored path="$PROJECT_DIR$/lamp-dao/target/" />
+    <ignored path="$PROJECT_DIR$/lamp-iot-proxy/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,90 +41,110 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/resources/application.yml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/service/impl/IotCommonManagerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+            <state relative-caret-position="350">
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/target/classes/META-INF/spring-configuration-metadata.json">
+        <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/AbsIotCommonManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-118" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/SpringSecurityConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-413">
-              <caret line="50" column="46" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+            <state relative-caret-position="278">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/SelfAuthenticationManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/authertic/AjaxAuthenticationEntryPoint.java">
+        <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/test/java/TestLom.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/authertic/SelfAuthenticationProvider.java">
+        <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IIotCommonManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/url/UrlAccessDecisionManager.java">
+        <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IIotDaoManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/url/UrlFilterInvocationSecurityMetadataSource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="600">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/session/AjaxInvalidSessionStrategy.java">
+        <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/constants/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="175">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/session/AjaxSessionInformationExpiredStrategy.java">
+        <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/AbsIotDeviceVo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+            <state relative-caret-position="175">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotDeviceVo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -225,6 +154,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -267,22 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxInvalidSessionStrategy.java" />
-        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/UrlFilterInvocationSecurityMetadataSource.java" />
-        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/UrlAccessDecisionManager.java" />
-        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/SpringSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/AjaxSessionInformationExpiredStrategy.java" />
-        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/redis/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/lamp-common/src/test/java/cn/com/hik/lamp/lampcommon/LampCommonApplicationTests.java" />
-        <option value="$PROJECT_DIR$/lamp-common/src/main/resources/mapper/common/LampRoleMenuMapper.xml" />
-        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/mapper/LampRoleMenuMapper.java" />
-        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/impl/LampMenuServiceImpl.java" />
-        <option value="$PROJECT_DIR$/lamp-common/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/maybatis/MaybatisConfig.java" />
-        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/ILampRoleMenuService.java" />
-        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/impl/LampRoleMenuServiceImpl.java" />
-        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/mapper/LampMenuMapper.java" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/authertic/SelfAuthenticationProvider.java" />
         <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/ILampUserService.java" />
         <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/entity/LampUser.java" />
@@ -318,6 +232,22 @@
         <option value="$PROJECT_DIR$/lamp-web/target/classes/META-INF/spring-configuration-metadata.json" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/url/UrlFilterInvocationSecurityMetadataSource.java" />
+        <option value="$PROJECT_DIR$/lamp-iot-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/IotRequest.java" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/IotResponse.java" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/AbsIotRequest.java" />
+        <option value="$PROJECT_DIR$/lamp-iot-proxy/src/test/java/TestLom.java" />
+        <option value="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotResponse.java" />
+        <option value="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotRequest.java" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IIotCommonManager.java" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IotCARDManager.java" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/constants/IotDeviceModel.java" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IotDaoManager.java" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/AbsIotCommonManager.java" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IIotDaoManager.java" />
+        <option value="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/IotDeviceVo.java" />
+        <option value="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotDeviceVo.java" />
+        <option value="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/service/impl/IotCommonManagerImpl.java" />
       </list>
     </option>
   </component>
@@ -359,8 +289,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1929" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -380,36 +310,25 @@
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-common" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-iot-proxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-common" type="462c0819:PsiDirectoryNode" />
-              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-iot-proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-iot-proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-iot-proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -417,172 +336,38 @@
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-iot-proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
+              <item name="iot" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-iot-proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
+              <item name="iot" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-iot-proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="autoconfig" type="462c0819:PsiDirectoryNode" />
+              <item name="iot" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
+              <item name="lamp-iot-proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="authertic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="handler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="session" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="url" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="swagger" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="hik" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="lamp-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp-web" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lamp-2020" type="b2602c69:ProjectViewProjectNode" />
@@ -660,7 +445,7 @@
     </option>
     <option name="contentProportion" value="0.18668832" />
   </component>
-  <component name="RunManager" selected="Spring Boot.LampWebApplication">
+  <component name="RunManager" selected="Application.TestLom">
     <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.com.hik.lamp.CodeGenerator" />
       <module name="lamp-common" />
@@ -713,18 +498,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LampCommonApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lamp-common" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.com.hik.lamp.lampcommon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.com.hik.lamp.lampcommon" />
-      <option name="MAIN_CLASS_NAME" value="cn.com.hik.lamp.lampcommon.LampCommonApplicationTests" />
-      <option name="METHOD_NAME" value="contextLoads" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="TestLom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestLom" />
+      <module name="lamp-iot-proxy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -766,11 +542,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestLom" />
         <item itemvalue="Application.SystemTest" />
         <item itemvalue="Application.LampCommonApplication" />
         <item itemvalue="Application.CodeGenerator" />
         <item itemvalue="Application.LampCommonApplicationTests" />
-        <item itemvalue="JUnit.LampCommonApplicationTests.contextLoads" />
       </list>
     </recent_temporary>
   </component>
@@ -800,7 +576,7 @@
       <workItem from="1590456159782" duration="48724000" />
       <workItem from="1590627883065" duration="1914000" />
       <workItem from="1590630757688" duration="8799000" />
-      <workItem from="1590646250622" duration="12115000" />
+      <workItem from="1590646250622" duration="23706000" />
     </task>
     <task id="LOCAL-00001" summary="配置">
       <created>1589451553114</created>
@@ -823,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589972117145</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1.添加swagger及swaager-ui&#10;2.添加登录权限控制">
+      <created>1590717087844</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590717087844</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -841,14 +624,22 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211866000" />
+    <option name="totallyTimeSpent" value="223457000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4859335" visible="true" weight="0.21108742" />
-      <window_info id="Structure" order="1" sideWeight="0.5140665" side_tool="true" visible="true" weight="0.21108742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.94570136" visible="true" weight="0.19829424" />
+      <window_info id="Structure" order="1" sideWeight="0.054298643" side_tool="true" visible="true" weight="0.19829424" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
@@ -856,27 +647,27 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.47071582" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15184382" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4698795" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15115005" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.29392624" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.31419286" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32968238" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.31325302" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Gradle View" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.032858707" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.12924425" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32968238" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="bottom" id="Messages" order="16" weight="0.3275488" />
+      <window_info anchor="bottom" id="Messages" order="16" visible="true" weight="0.04121475" />
       <window_info anchor="bottom" id="Run Dashboard" order="17" weight="0.48481563" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.07409382" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.015991472" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -891,7 +682,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="配置" />
     <MESSAGE value="代码更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="代码更新" />
+    <MESSAGE value="1.添加swagger及swaager-ui&#10;2.添加登录权限控制" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.添加swagger及swaager-ui&#10;2.添加登录权限控制" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1137,125 +929,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/service/system/ILampRoleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-dao/src/main/java/cn/com/hik/lamp/common/service/system/ILampUserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.7.RELEASE/spring-boot-2.2.7.RELEASE-sources.jar!/org/springframework/boot/context/properties/ConfigurationPropertiesBinding.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="4420" column="31" selection-start-line="4420" selection-start-column="31" selection-end-line="4420" selection-end-column="31" />
-          <folding>
-            <element signature="e#175306#175307#0" expanded="true" />
-            <element signature="e#175349#175350#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/handler/AjaxLogoutSuccessHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/handler/AjaxAuthenticationFailureHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/handler/AjaxAuthenticationSuccessHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/handler/AjaxAccessDeniedHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="18" column="70" lean-forward="true" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/util/matcher/AntPathRequestMatcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="139" column="74" selection-start-line="139" selection-start-column="74" selection-end-line="139" selection-end-column="74" />
-          <folding>
-            <element signature="e#3167#3168#0" expanded="true" />
-            <element signature="e#3205#3206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE.jar!/org/springframework/http/HttpMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.6.RELEASE/spring-web-5.2.6.RELEASE-sources.jar!/org/springframework/http/HttpMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-225" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.7.RELEASE/spring-boot-autoconfigure-2.2.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/session/StoreType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.7.RELEASE/spring-boot-autoconfigure-2.2.7.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/session/SessionProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
-          <folding>
-            <element signature="e#2379#2380#0" expanded="true" />
-            <element signature="e#2412#2413#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="76" column="18" selection-start-line="76" selection-start-column="17" selection-end-line="77" selection-end-column="5" />
-          <folding>
-            <element signature="e#2036#2037#0" expanded="true" />
-            <element signature="e#2063#2064#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.4.RELEASE/spring-security-web-5.2.4.RELEASE-sources.jar!/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1226">
-          <caret line="152" selection-start-line="152" selection-end-line="152" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.2/mybatis-plus-core-3.3.2.jar!/com/baomidou/mybatisplus/core/config/GlobalConfig.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6950">
@@ -1305,13 +978,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.12/lombok-1.18.12-sources.jar!/lombok/Data.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lamp-2020.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1330,23 +996,6 @@
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/ResponseData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/RequestData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/LampWebApplication.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1482,7 +1131,7 @@
     <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/session/AjaxInvalidSessionStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1523,8 +1172,159 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lamp-web/src/main/java/cn/com/hik/lamp/config/security/url/UrlFilterInvocationSecurityMetadataSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="944">
+          <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/RequestData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/ResponseData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/AbsIotResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.12/lombok-1.18.12-sources.jar!/lombok/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/AbsIotRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/test/java/TestLom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IIotCommonManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/constants/IotDeviceModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/constants/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IIotDaoManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/AbsIotCommonManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/model/iot/AbsIotDeviceVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/IotDeviceVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/service/impl/IotCommonManagerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

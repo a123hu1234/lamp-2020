@@ -54,9 +54,7 @@ public class UrlFilterInvocationSecurityMetadataSource implements FilterInvocati
 
         //根据配置是否忽略swaager发送的请求的权限校验
         if (Boolean.TRUE.equals(lampConfig.getWebConfig().getIgoreSwaggerRequest()) && "SwaggerBootstrapUi".equals(reqOrg)) {
-
             return SecurityConfig.createList(Constants.ROLE_IGORE);
-
         }
 
         for (String url : postUrls) {
