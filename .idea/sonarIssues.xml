@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/AbsIotCommonManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/IIotCommonManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/service/iot/MyAbstractIotCommonManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lamp-common/src/main/java/cn/com/hik/lamp/common/util/HttpUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lamp-dao/src/main/resources/common/LampMenuMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/IotSpringBootStart.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/model/DefaultIotResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lamp-iot-proxy/src/main/java/cn/com/hik/lamp/iot/service/impl/IotCommonManagerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lamp-iot-proxy/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lamp-iot-proxy/src/test/java/IotCommonManagerImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

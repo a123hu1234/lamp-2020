@@ -1,0 +1,4 @@
+iot:
+  iotAddress: http://10.0.10.150:8558/iot-web
+  connectTimeOut: 30000
+  readTimeOut: 30000

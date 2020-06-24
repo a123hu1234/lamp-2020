@@ -1,5 +1,6 @@
 package cn.com.hik.lamp.common.service.iot;
 
+import cn.com.hik.lamp.common.enums.DeviceModel;
 import cn.com.hik.lamp.common.model.iot.IotDeviceVo;
 
 import java.util.List;
@@ -9,7 +10,7 @@ import java.util.List;
  * @description :
  * @date : 2020/5/29 11:26
  */
-public interface IIotDaoManager<T extends IotDeviceVo> {
+public interface IIotDaoManager {
 
     /**
      * 根据sn信息和设备类型查询设备信息
@@ -18,7 +19,7 @@ public interface IIotDaoManager<T extends IotDeviceVo> {
      * @param deviceModle 设备类型
      * @return 设备信息
      */
-    IotDeviceVo selectOneBySn(String sn, String deviceModle);
+    IotDeviceVo selectOneBySn(String sn, DeviceModel deviceModle);
 
 
     /**
@@ -28,7 +29,7 @@ public interface IIotDaoManager<T extends IotDeviceVo> {
      * @param deviceModel 设备类型
      * @return 设备列表
      */
-    List<T> selectDeviceList(String pageNum, String pageSize, String deviceModel);
+    List<IotDeviceVo> selectDeviceList(String pageNum, String pageSize, DeviceModel deviceModel);
 
 
 }

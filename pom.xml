@@ -26,7 +26,7 @@
         <project.version>0.0.1-SNAPSHOT</project.version>
         <mybatis.starter.versions>2.1.2</mybatis.starter.versions>
         <mybatis.plus.starter.versions>3.3.2</mybatis.plus.starter.versions>
-        <fastjson.version>1.2.67</fastjson.version>
+        <fastjson.version>1.2.71</fastjson.version>
         <springfox.swagger.version>2.9.2</springfox.swagger.version>
         <swagger.bootstrap.ui.version>1.9.6</swagger.bootstrap.ui.version>
         <springfox.swagger-ui.version>2.9.2</springfox.swagger-ui.version>
@@ -34,15 +34,21 @@
     </properties>
 
     <dependencies>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
+            <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-configuration-processor</artifactId>
+            <optional>true</optional>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -72,6 +78,11 @@
         </dependency>
 
         <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>${fastjson.version}</version>
+        </dependency>
+        <dependency>
             <groupId>com.github.xiaoymin</groupId>
             <artifactId>swagger-bootstrap-ui</artifactId>
             <version>${swagger.bootstrap.ui.version}</version>
@@ -92,11 +103,7 @@
                 <artifactId>mybatis-plus-boot-starter</artifactId>
                 <version>${mybatis.plus.starter.versions}</version>
             </dependency>
-            <dependency>
-                <groupId>com.alibaba</groupId>
-                <artifactId>fastjson</artifactId>
-                <version>${fastjson.version}</version>
-            </dependency>
+
             <dependency>
                 <groupId>cn.com.hik.lamp-2020</groupId>
                 <artifactId>lamp-common</artifactId>
